@@ -1,5 +1,5 @@
-# webdevspace
-**Сайт-портфолио webdev-space.com**
+# template
+**базовый шаблон для разработки**
 
 ## Состав проекта
 1. Jade (_doctype.jade, index.jade, includes)
@@ -14,7 +14,7 @@
 
 ## Инструкция по установке, настройке и использованию
 ```
-1. git clone https://github.com/sunndeath/webdevspace.git && cd webdevspace
+1. git clone https://github.com/sunndeath/template.git && cd template
 2. npm i
 3. bower i
 4. gulp
