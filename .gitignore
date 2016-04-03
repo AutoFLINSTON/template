@@ -1,0 +1,6 @@
+node_modules
+dev/plugins
+originals
+.DS_Store
+.idea
+.sass-cache
