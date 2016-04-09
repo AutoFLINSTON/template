@@ -136,7 +136,7 @@ gulp.task('server', function () {
 		browser: ['google chrome'],
 		server: {
 			baseDir: ["dev", "prod"],
-			index: "blog.html"
+			index: "index.html"
 		}
 	});
 });
